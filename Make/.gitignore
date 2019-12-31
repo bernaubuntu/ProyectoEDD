@@ -1,3 +1,8 @@
 *.o
 *.exe
 !hola.jpg
+!parte2.jpg
+!parte3.jpg
+!make-parte1.jpg
+!make-parte2.jpg
+!make-parte3.jpg
