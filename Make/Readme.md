@@ -238,3 +238,11 @@ Capturas de comprobación con el archivo `Makefile`
 #### Captura commit parte3
 
 ![Imagen captura commit parte3](make-parte3.jpg)
+
+## Subir los datos a github
+
+Para subir los datos a github solo faltaría el siguiente comando:
+
+```
+    git push -u origin master
+```
