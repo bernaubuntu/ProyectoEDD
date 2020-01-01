@@ -1,4 +1,4 @@
-#include <stdio.h>
+//#include <stdio.h>
 
 int suma(int op1, int op2){
     return (op1+op2);
@@ -26,6 +26,8 @@ int major(int op1, int op2){
     }
 }//major
 
+// quitado porque se pondra en el archivo calcula.c
+/**
 int main(){
     int a=10;
     int b=5;
@@ -35,3 +37,4 @@ int main(){
     printf("La divisió entre %d i %d és %d\n", a, b, divideix(a,b));
     printf("El major entre %d i %d és %d\n", a, b, major(a,b));
 }
+**/
